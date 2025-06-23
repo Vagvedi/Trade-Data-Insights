@@ -58,8 +58,7 @@ This project explores the relationship between **market sentiment** (Fear/Greed 
 
 📬 How to Reach Me
 
-📧 Email: \[[YourEmail@example.com](mailto:YourEmail@example.com)]
-🔗 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-💼 LinkedIn: [https://linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-
+📧 Email: vagvedikinikar@gmail.com
+🔗 GitHub: https://github.com/Vagvedi
+💼 LinkedIn: https://www.linkedin.com/in/vagvedikinikar/
 
