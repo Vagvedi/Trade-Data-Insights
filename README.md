@@ -14,13 +14,19 @@ This project explores the relationship between **market sentiment** (Fear/Greed 
 
 ### 📁 Datasets Used
 
-1. **📈 Trader Data** (Hyperliquid)
 
-   * Columns: `Account`, `Coin`, `Execution Price`, `Size Tokens`, `Size USD`, `Side`, `Timestamp`, `Closed PnL`, `Start Position`, `Direction`, etc.
+### 🔗 Historical Trader Data  
+[Download CSV from Google Drive](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)
 
-2. **📉 Bitcoin Market Sentiment**
 
-   * Columns: `Date`, `Classification` (`Fear`, `Greed`, `Extreme Greed`, `Neutral`)
+
+### 🔗 Bitcoin Fear & Greed Index  
+[Download CSV from Google Drive](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing)
+
+
+
+**Note:** These files are large and have not been included directly in the GitHub repository to avoid bloating the repo.
+
 
  🔍 Key Insights
 
